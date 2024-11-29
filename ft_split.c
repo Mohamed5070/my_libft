@@ -6,7 +6,7 @@
 /*   By: moaatik <moaatik@student.42.fr>            +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/10/23 17:24:49 by moaatik           #+#    #+#             */
-/*   Updated: 2024/11/04 15:11:56 by moaatik          ###   ########.fr       */
+/*   Updated: 2024/11/04 15:11:57 by moaatik          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -16,7 +16,7 @@ static int	count_word(const char *str, char c)
 {
 	int	inword;
 	int	count;
-	int	i;
+	int i;
 
 	inword = 0;
 	count = 0;
